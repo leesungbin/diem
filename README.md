@@ -21,13 +21,13 @@ Diem Core implements a decentralized, programmable database which provides a fin
 
 ### Learn About Diem
 * [Welcome](https://developers.diem.com/docs/welcome-to-diem)
-* [Diem Protocol: Key Concepts](https://developers.diem.com/docs/core/diem-protocol)
-* [Life of a Transaction](https://developers.diem.com/docs/core/life-of-a-transaction)
+* [Diem Protocol: Key Concepts](https://developers.diem.com/docs/basics/basics-txns-states)
+* [Life of a Transaction](https://developers.diem.com/docs/transactions/basics-life-of-txn)
 * [JSON-RPC SPEC](json-rpc/json-rpc-spec.md)
 
 ### Try Diem Core
-* [My First Transaction](https://developers.diem.com/docs/core/my-first-transaction)
-* [Getting Started With Move](https://developers.diem.com/docs/move/move-introduction)
+* [My First Transaction](https://developers.diem.com/docs/tutorials/tutorial-my-first-transaction)
+* [Getting Started With Move](https://move-language.github.io/move/introduction.html)
 
 ### Technical Papers
 * [The Diem Blockchain](https://developers.diem.com/docs/technical-papers/the-diem-blockchain-paper)
@@ -35,7 +35,7 @@ Diem Core implements a decentralized, programmable database which provides a fin
 * [State Machine Replication in the Diem Blockchain](https://developers.diem.com/docs/technical-papers/state-machine-replication-paper)
 
 ### Blog
-* [Diem: The Path Forward](https://developers.diem.com/blog/2019/06/18/the-path-forward/)
+* [Diem: The Path Forward](https://www.diem.com/en-us/blog/libra-developers-the-path-forward/)
 
 ## License
 
